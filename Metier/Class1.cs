@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DAL
+namespace Metier
 {
     public class Class1
     {
