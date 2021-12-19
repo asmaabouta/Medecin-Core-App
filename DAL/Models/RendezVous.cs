@@ -6,7 +6,7 @@ using System.Text;
 
 namespace DAL.Models
 {
-    class RendezVous
+    public class RendezVous
     {
         [Key]
         public int ID { get; set; }

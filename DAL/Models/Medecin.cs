@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DAL.Models
 {
-    class Medecin
+    public class Medecin
     {
         [Key]
         public int ID { get; set; }
